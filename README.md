@@ -4,7 +4,7 @@ I find a great joy in solving problems, especially those I find affect me or oth
 I am a Technician second. I have worked in designing microcontrollers and sensors. I enjoy the inventing aspect of these devices, and the myriad of possibilities when designing them.
 ## What I Can Do
 I can code in enough languages that I feel a list is a poor way to display them. I find coding best as an understanding of principles. <br>
-When coding in Javascript, Python, or any newer language, I find knowledge of Object-Oriented Programming is a far more important thing to have. Working with object and function calls with a large amount of abstraction is a nice thing to soothe the aches of the coder's mind.<br>
+When coding in Javascript, Python, or any newer language, I find knowledge of Object-Oriented Programming and Procedural Programming is a far more important thing to have. Working with object and function calls with a large amount of abstraction is a nice thing to soothe the aches of the coder's mind.<br>
 When coding in C and Fortran, coding goes from a leisurely activity with many principles set in stone, coding changes to a more freeform, but far more knowledge-heavy actions based on language. In C, Memory Allocation, while still being a problem in orther languages, is paramount to success.
 <br>Other than coding, design is something I have a semblance of experience in. From video games to client software, you always need a plan.
 <!--
